@@ -1,5 +1,6 @@
 % (Generalized) Weighted Least Squares parameter estimation and 
-% uncertainty quantification for St. Louis City
+% uncertainty quantification for St. Louis City using real data
+% Using MultiStart to minimize objective function
 
 clear all
 close all 
